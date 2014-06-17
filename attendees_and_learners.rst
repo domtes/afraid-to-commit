@@ -12,11 +12,13 @@ DjangoVillage in Orvieto, 14th June 2014
 ----------------------------------------
 * Gioele
 * Christian Barra (@christianbarra) https://github.com/barrachri
-* Luca Ippoliti
+* Luca Ippoliti https://github.com/lucaippo
 * @joke2k (https://github.com/joke2k)
 * Domenico Testa (@domtes)
 * Alessio
 * Diego Magrini (http://github.com/magrinidiego)
+* Matteo (@loacker) https://github.com/loacker
+* Simone (@simodalla) https://github.com/simodalla
 
 DjangoCon Europe on The Île des Embiez, 16th May 2014
 -----------------------------------------------------
